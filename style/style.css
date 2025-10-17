@@ -107,7 +107,7 @@ section .imagem {
 }
 
 #container strong {
-  color: rgb(20, 95, 64);;
+  color: rgb(20, 95, 64);
 }
 
 #container section p {
@@ -122,7 +122,7 @@ h3 {
   margin: 0px 0px;
   color: white;
   background-color: rgba(30, 175, 86, 0.781);
-  border-radius: 20px 20px 0 0;
+  border-radius: 20px 20px 0px 0px;
 }
 
 #extra p {
